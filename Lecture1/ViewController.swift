@@ -110,7 +110,9 @@ class ViewController: UIViewController {
     }
     
     func test() {
-        print("test Source Tree")
+
+        print("test lan thu 2")
+
     }
     
     @IBAction func Clear(_ sender: UIButton) {
