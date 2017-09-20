@@ -109,6 +109,10 @@ class ViewController: UIViewController {
         }
     }
     
+    func test() {
+        print("test Source Tree")
+    }
+    
     @IBAction func Clear(_ sender: UIButton) {
         
         number = ""
