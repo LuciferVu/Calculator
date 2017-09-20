@@ -35,6 +35,8 @@ class ViewController: UIViewController {
     
     var testSourceTree = "haha"
     
+    var themChinhSua = ""
+    
     var arrayNumber = [Double]()
     
     var calculator = ""
